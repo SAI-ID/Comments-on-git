@@ -3,7 +3,11 @@
 ##### Git Check Version
 
 <br>
+
 <p align = "center"> deskripsion </p>
+
+<br>
+
 ```git
 git --version
 ```
